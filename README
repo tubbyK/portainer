@@ -1,0 +1,12 @@
+Docker-compose file to start portainer.
+
+Portainer (https://www.portainer.io/) is a tool to manage docker environments.
+
+Prerequisite:
+Docker
+
+TO USE:
+1. Run below command in terminal (I am using Ubuntu 18.04)
+   docker-compose up -d
+
+2. Go to web browser and navigate to localhost:9000
